@@ -684,6 +684,16 @@
             "related": ".xml"
           }
         }
+      },
+      "Module3EmpMgmt/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Module3EmpMgmt.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Module3EmpMgmt.dll": {}
+        }
       }
     }
   },
@@ -1643,12 +1653,18 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "Module3EmpMgmt/1.0.0": {
+      "type": "project",
+      "path": "../Module3EmpMgmt/Module3EmpMgmt.csproj",
+      "msbuildProject": "../Module3EmpMgmt/Module3EmpMgmt.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "MSTest >= 3.6.4",
-      "Microsoft.NET.Test.Sdk >= 17.12.0"
+      "Microsoft.NET.Test.Sdk >= 17.12.0",
+      "Module3EmpMgmt >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1658,11 +1674,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\Tests\\Tests.csproj",
+      "projectUniqueName": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Tests\\Tests.csproj",
       "projectName": "Tests",
-      "projectPath": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\Tests\\Tests.csproj",
+      "projectPath": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Tests\\Tests.csproj",
       "packagesPath": "C:\\Users\\wg0996425\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\Tests\\obj\\",
+      "outputPath": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1683,7 +1699,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Module3EmpMgmt\\Module3EmpMgmt.csproj": {
+              "projectPath": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Module3EmpMgmt\\Module3EmpMgmt.csproj"
+            }
+          }
         }
       },
       "warningProperties": {
@@ -1695,8 +1715,7 @@
         "enableAudit": "true",
         "auditLevel": "low",
         "auditMode": "direct"
-      },
-      "SdkAnalysisLevel": "9.0.100"
+      }
     },
     "frameworks": {
       "net8.0": {
@@ -1727,7 +1746,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.303/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

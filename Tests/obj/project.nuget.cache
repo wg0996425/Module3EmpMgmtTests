@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BiNRGDAWDXs=",
+  "dgSpecHash": "bo0AfMp5HGk=",
   "success": true,
-  "projectFilePath": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\Tests\\Tests.csproj",
+  "projectFilePath": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Tests\\Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\wg0996425\\.nuget\\packages\\microsoft.applicationinsights\\2.22.0\\microsoft.applicationinsights.2.22.0.nupkg.sha512",
     "C:\\Users\\wg0996425\\.nuget\\packages\\microsoft.codecoverage\\17.12.0\\microsoft.codecoverage.17.12.0.nupkg.sha512",

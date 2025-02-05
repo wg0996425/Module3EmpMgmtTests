@@ -26,8 +26,7 @@ namespace Module3EmpMgmt
         // Method for calculating pay
         public override void CalculatePay()
         {
-            var BaseSalary = HourlyRate * HoursWorked;
-            Console.WriteLine($"Part-Time Employee Pay: {BaseSalary}");
+            BaseSalary = HourlyRate * HoursWorked;
         }
 
         // ToString method to display employee description

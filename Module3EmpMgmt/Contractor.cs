@@ -7,8 +7,9 @@ using System.Threading.Tasks;
 namespace Module3EmpMgmt
 {
     public class Contractor : Employee
-    {  
-        // Creates neccessary private variable
+    {
+        // Creates neccessary private and public variables
+        public DateTime startdate = new DateTime(2025, 01, 01);
         private DateTime contractexpirydate;
 
         // Gets the private variable and sets it to a public, usable one 
@@ -24,15 +25,14 @@ namespace Module3EmpMgmt
         public override void CalculatePay()
         {
             // Salary is based upon the total number of days from the current days until the expiry date multiplied by hourly pay, multiplied by hours per day worked
-            var startdate = new DateTime(2025, 01, 01);
-            var BaseSalary = (ContractExpiryDate - startdate).TotalDays * 30 * 10;
-            Console.WriteLine($"Contractor Pay: {BaseSalary}");
+            BaseSalary = Convert.ToInt32((ContractExpiryDate - startdate).TotalDays * 30 * 10);
+
         }
 
         // ToString method to display employee description
         public override string ToString()
         {
-            return $"ID: {ID}, Name: {Name}, Department: {Department}, Base Salary: {BaseSalary:C}, Contract Exipry Date: {ContractExpiryDate}";
+            return $"ID: {ID}, Name: {Name}, Department: {Department}, Base Salary: {BaseSalary:C}, Contract Expiry Date: {ContractExpiryDate}";
         }
     }
 }

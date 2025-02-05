@@ -23,8 +23,7 @@ namespace Module3EmpMgmt
         // Method for calculating pay
         public override void CalculatePay()
         {
-            var pay = BaseSalary + AnnualBonus;
-            Console.WriteLine($"Full-Time Employee Pay: {pay}");
+            BaseSalary = BaseSalary + AnnualBonus;
         }
 
         // ToString method to display employee description

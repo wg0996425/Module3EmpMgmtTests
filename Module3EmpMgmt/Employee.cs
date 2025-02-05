@@ -36,10 +36,16 @@ namespace Module3EmpMgmt
             var pay = BaseSalary;
         }
 
+        // Placeholder ToString method to display employee description
+        public override string ToString()
+        {
+            return $"ID: {ID}, Name: {Name}, Department: {Department}, Base Salary: {BaseSalary:C}";
+        }
+
         // Placeholder (and ultimately useless) method for displaying employee details
         public virtual void DisplayEmployeeDetails()
         {
-            Console.WriteLine($"ID: {ID}, Name: {Name}, Department: {Department}, Base Salary: {BaseSalary:C}");
+            Console.WriteLine($"ID: {ID}, Name: {Name}, Department: {Department}, Base Salary: {BaseSalary}");
         }
     }
 }

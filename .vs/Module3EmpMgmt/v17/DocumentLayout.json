@@ -1,26 +1,38 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\",
+  "WorkspaceRootPath": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|c:\\users\\wg0996425\\onedrive - ozarks technical community college\\documents\\cis-150\\module3empmgmttests\\module3empmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|solutionrelative:module3empmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{0F9052A8-6868-4AA3-B737-13B9BE849D6D}|Tests\\Tests.csproj|c:\\users\\wg0996425\\downloads\\module3empmgmttests-main\\tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F9052A8-6868-4AA3-B737-13B9BE849D6D}|Tests\\Tests.csproj|solutionrelative:tests\\tests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|c:\\users\\wg0996425\\onedrive - ozarks technical community college\\documents\\cis-150\\module3empmgmttests\\module3empmgmt\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|solutionrelative:module3empmgmt\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|c:\\users\\wg0996425\\onedrive - ozarks technical community college\\documents\\cis-150\\module3empmgmttests\\module3empmgmt\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|solutionrelative:module3empmgmt\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|c:\\users\\wg0996425\\onedrive - ozarks technical community college\\documents\\cis-150\\module3empmgmttests\\module3empmgmt\\contractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|c:\\users\\wg0996425\\downloads\\module3empmgmttests-main\\module3empmgmt\\contractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|solutionrelative:module3empmgmt\\contractor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0F9052A8-6868-4AA3-B737-13B9BE849D6D}|Tests\\Tests.csproj|c:\\users\\wg0996425\\onedrive - ozarks technical community college\\documents\\cis-150\\module3empmgmttests\\tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|c:\\users\\wg0996425\\downloads\\module3empmgmttests-main\\module3empmgmt\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|solutionrelative:module3empmgmt\\fulltimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|c:\\users\\wg0996425\\downloads\\module3empmgmttests-main\\module3empmgmt\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|solutionrelative:module3empmgmt\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9052A8-6868-4AA3-B737-13B9BE849D6D}|Tests\\Tests.csproj|c:\\users\\wg0996425\\downloads\\module3empmgmttests-main\\tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0F9052A8-6868-4AA3-B737-13B9BE849D6D}|Tests\\Tests.csproj|solutionrelative:tests\\mstestsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|c:\\users\\wg0996425\\downloads\\module3empmgmttests-main\\module3empmgmt\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|solutionrelative:module3empmgmt\\parttimeemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|c:\\users\\wg0996425\\downloads\\module3empmgmttests-main\\module3empmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{71666AE2-E3D4-47B7-8738-FE7BDDCFC997}|Module3EmpMgmt\\Module3EmpMgmt.csproj|solutionrelative:module3empmgmt\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F9052A8-6868-4AA3-B737-13B9BE849D6D}|Tests\\Tests.csproj|c:\\users\\wg0996425\\downloads\\module3empmgmttests-main\\tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0F9052A8-6868-4AA3-B737-13B9BE849D6D}|Tests\\Tests.csproj|solutionrelative:tests\\tests.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +42,108 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Tests",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Tests\\Tests.csproj",
+              "RelativeDocumentMoniker": "Tests\\Tests.csproj",
+              "ToolTip": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Tests\\Tests.csproj",
+              "RelativeToolTip": "Tests\\Tests.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-05T00:51:00.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FullTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Module3EmpMgmt\\FullTimeEmployee.cs",
+              "RelativeDocumentMoniker": "Module3EmpMgmt\\FullTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Module3EmpMgmt\\FullTimeEmployee.cs",
+              "RelativeToolTip": "Module3EmpMgmt\\FullTimeEmployee.cs",
+              "ViewState": "AQIAAAgAAADA/////z81wBcAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-05T00:47:51.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Tests.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Tests\\Tests.cs",
+              "RelativeDocumentMoniker": "Tests\\Tests.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Tests\\Tests.cs",
+              "RelativeToolTip": "Tests\\Tests.cs",
+              "ViewState": "AQIAAIcAAACAmZmZmRkhwJIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-04T23:38:39.888Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 4,
               "Title": "MSTestSettings.cs",
-              "DocumentMoniker": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\Tests\\MSTestSettings.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Tests\\MSTestSettings.cs",
               "RelativeDocumentMoniker": "Tests\\MSTestSettings.cs",
-              "ToolTip": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\Tests\\MSTestSettings.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Tests\\MSTestSettings.cs",
               "RelativeToolTip": "Tests\\MSTestSettings.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T15:31:24.096Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Contractor.cs",
-              "DocumentMoniker": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\Module3EmpMgmt\\Contractor.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Module3EmpMgmt\\Contractor.cs",
               "RelativeDocumentMoniker": "Module3EmpMgmt\\Contractor.cs",
-              "ToolTip": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\Module3EmpMgmt\\Contractor.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Module3EmpMgmt\\Contractor.cs",
               "RelativeToolTip": "Module3EmpMgmt\\Contractor.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAswBsAAABSAAAAAAAAAA==",
+              "ViewState": "AQIAABIAAACAzMzMzMwQwCIAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T02:15:38.077Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "PartTimeEmployee.cs",
-              "DocumentMoniker": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\Module3EmpMgmt\\PartTimeEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Module3EmpMgmt\\PartTimeEmployee.cs",
               "RelativeDocumentMoniker": "Module3EmpMgmt\\PartTimeEmployee.cs",
-              "ToolTip": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\Module3EmpMgmt\\PartTimeEmployee.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Module3EmpMgmt\\PartTimeEmployee.cs",
               "RelativeToolTip": "Module3EmpMgmt\\PartTimeEmployee.cs",
-              "ViewState": "AgIAABAAAACAMzMzM9M2wCAAAAAcAAAAAAAAAA==",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAowBwAAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T02:11:43.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Employee.cs",
-              "DocumentMoniker": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\Module3EmpMgmt\\Employee.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Module3EmpMgmt\\Employee.cs",
               "RelativeDocumentMoniker": "Module3EmpMgmt\\Employee.cs",
-              "ToolTip": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\Module3EmpMgmt\\Employee.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Module3EmpMgmt\\Employee.cs",
               "RelativeToolTip": "Module3EmpMgmt\\Employee.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAowAwAAAAIAAAAAAAAAA==",
+              "ViewState": "AQIAABgAAAAAzczMzEwkwCkAAABkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T01:22:01.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\Module3EmpMgmt\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Module3EmpMgmt\\Program.cs",
               "RelativeDocumentMoniker": "Module3EmpMgmt\\Program.cs",
-              "ToolTip": "C:\\Users\\wg0996425\\OneDrive - Ozarks Technical Community College\\Documents\\CIS-150\\Module3EmpMgmtTests\\Module3EmpMgmt\\Program.cs",
+              "ToolTip": "C:\\Users\\wg0996425\\Downloads\\Module3EmpMgmtTests-main\\Module3EmpMgmt\\Program.cs",
               "RelativeToolTip": "Module3EmpMgmt\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAADwvxUAAAAAAAAAAAAAAA==",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAywBwAAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-04T01:20:57.352Z",
               "EditorCaption": ""
